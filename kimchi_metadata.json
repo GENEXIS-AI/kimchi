@@ -1,0 +1,19 @@
+{
+  "name": "Kimchi",
+  "symbol": "kim",
+  "description": "Korea Kimchi Meme Token",
+  "seller_fee_basis_points": 500,
+  "image": "https://github.com/GENEXIS-AI/kimchi/blob/main/assets/kimchi.png?raw=true",
+  "attributes": [],
+  "collection": {},
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/GENEXIS-AI/kimchi/blob/main/assets/kimchi.png?raw=true",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
